@@ -1,7 +1,3 @@
-Certainly! Below is a sample `README.md` file that you can include in your GitHub repository to document the OTP (One-Time Password) component built with React:
-
----
-
 # OTP Input Component
 
 A React component for entering One-Time Passwords (OTPs) with customizable length.
